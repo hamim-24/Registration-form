@@ -1,12 +1,32 @@
-# Simple Registration Form
+# 📝 Player Registration Form (Java Swing)
 
-This is a simple Java Swing application that provides a graphical user interface (GUI) for user registration.
+A simple desktop application built with **Java Swing** that allows users to fill out and save player registration data. It demonstrates how to build interactive GUI apps using layout managers, event listeners, file handling, and form validation in Java.
 
-## Features
-- User-friendly registration form
-- Input fields for user details
-- Basic form validation
+---
 
+## 🚀 Features
+
+- 📄 User-friendly **registration form** for football players
+- 📅 Inputs for **date of birth**, **degree**, **position**, and **experience**
+- 👤 Gender selection using radio buttons
+- 📂 Image file upload functionality
+- ✅ Form validation with helpful error messages
+- 💾 Save registration data to a `.txt` file
+- 🔄 Reset form to default state
+
+---
+
+## 🛠️ Tech Stack
+
+- **Java 21**
+- **Swing** (for GUI)
+- **JFileChooser** (for photo upload)
+- **Regex & FocusListener** (for validation)
+- **FileWriter** (to store data)
+
+---
+
+## 📂 File Structure
 ## Project Structure
 ```
 Simple-registration-form/
