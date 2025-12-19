@@ -1,5 +1,7 @@
 # 📝 Player Registration Form (Java Swing)
 
+**[YouTube Video](https://www.linkedin.com/feed/update/urn:li:activity:7350180621308092417)**
+
 A simple desktop application built with **Java Swing** that allows users to fill out and save player registration data. It demonstrates how to build interactive GUI apps using layout managers, event listeners, file handling, and form validation in Java.
 
 ---
